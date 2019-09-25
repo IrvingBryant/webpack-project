@@ -1,0 +1,7 @@
+/* @font-face{
+  font-family:"微软雅黑";
+  src:url('字体地址') fromat('truetype');
+} */
+.search-text{
+  font-size: 20px;
+}
